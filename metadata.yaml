@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8806
     wikipedia: http://en.wikipedia.org/wiki/Edith_Durham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41499#Through-the-Land-of-the-Serb
 gutenberg_issued: '2012-11-27'
 gutenberg_type: Text
 identifiers:
