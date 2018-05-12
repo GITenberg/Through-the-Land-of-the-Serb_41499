@@ -1,0 +1,31 @@
+_repo: Through-the-Land-of-the-Serb_41499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durham, M. E. (Mary Edith)
+    aliases:
+    - Durham, Edith
+    - Durham, Mary Edith
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '8806'
+    url: http://www.gutenberg.org/2009/agents/8806
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Durham
+description: ''
+gutenberg_issued: '2012-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Montenegro -- Description and travel'
+- !lcsh 'Serbia -- Description and travel'
+title: Through the Land of the Serb
+url: http://www.gutenberg.org/ebooks/41499
